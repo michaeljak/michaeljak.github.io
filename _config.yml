@@ -1,0 +1,21 @@
+# Site settings
+title: Michael Jakson Dev
+description: Michael Jakson - Desenvolvedor
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Michael Jakson
+user_description: Desenvolvedor full stack experiente com mais de 2 anos em desenvolvimento 
+web e engenharia de software em geral. Não tenho medo de enfrentar problemas e sempre encontro uma solução. 
+user_title: Full Stack Developer 
+email: mixaelj@gmail.com
+twitter_username: michaelj_dev
+github_username:  michaeljak
+gplus_username:  michael-jakson
+
+# Google-analytics
+google-analytics:
+  id: "G-HE8S96BYHB"
+
+exclude: ['package.json', 'src' , 'node_modules']
